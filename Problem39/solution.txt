@@ -1,0 +1,1 @@
+The best perimeter is: 840 with 16 integral triangles.

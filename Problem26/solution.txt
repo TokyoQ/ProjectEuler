@@ -1,0 +1,2 @@
+Best streak is: 71 with a = -61 and b = 971
+The product is: -59231

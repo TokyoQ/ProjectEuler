@@ -1,0 +1,2 @@
+There are 1786 words in the list.
+There are 162 triangle words in the list.

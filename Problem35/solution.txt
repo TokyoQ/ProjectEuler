@@ -1,0 +1,2 @@
+Number of primes below 1000000: 78498
+Number of circular primes below 1000000: 55

@@ -1,0 +1,2 @@
+The best start num is: 837799
+The best chain length is: 525

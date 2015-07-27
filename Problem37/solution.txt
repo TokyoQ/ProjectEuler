@@ -1,0 +1,2 @@
+Number of trunctable primes below 1000000: 11
+The sum is: 748317

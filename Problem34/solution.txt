@@ -1,0 +1,3 @@
+145 is curious.
+40585 is curious.
+The sum is: 40730
